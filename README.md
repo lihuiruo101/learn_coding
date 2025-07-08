@@ -3,4 +3,4 @@
 
 가끔 씩 시간 날 때마다 **MARKDOWN** 강좌도 할 거임.
 
-(파이썬 바로가기)[www.python.org]
+[python 바로가기](www.python.org)
